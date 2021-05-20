@@ -6,7 +6,7 @@ While You're here, check out my more useful projects!
   - [`FUNC`](https://github.com/lomnom/FUNC): code that I use in many projects. You can take anything useful from there  
 
 Also, if you're interested, i have many *totally useless* side projects!
-  - [`PI`](https://github.com/lomnom/): inefficient pi calculator. Nice and colorful CLI tho
+  - [`PI`](https://github.com/lomnom/PI): inefficient pi calculator. Nice and colorful CLI tho
   - [`QUIZIZZ-ASSETS`](https://github.com/lomnom/QUIZZIZ-ASSETS): just a ton of assets from quizziz (music, icons etc etc)
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
