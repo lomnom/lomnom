@@ -17,6 +17,6 @@ Also, if you're interested, i have many *totally useless* side projects!
   - [`HERTZ.py`](https://github.com/lomnom/HERTZ.py): feature rich utility to blink a led in the raspberry pi
 <details>
   <summary>and you probably <strong>dont</strong> want to look inside here.</summary>
-  • <a href="https://github.com/lomnom/HENTAI">Hentai</a>: (why did i make this) a python script to download doujins from nhentai as a pdf, useful for well, you know.
+  • <a href="https://github.com/lomnom/HENTAI">Hentai</a>: (why did i make this) a python script to download doujins from nhentai as a pdf, useful for well, you know. <br />
   You were warned.
 </details>
