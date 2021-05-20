@@ -2,10 +2,10 @@
 ## WELCOME TO MY GITHUB PROFILE!
 While You're here, check out my more useful projects!  
   - [`TERMINALFUNC`](https://github.com/lomnom/TERMINALFUNC): A lower level, less abstracted version of ncurses with much more potential
-  - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a tom of escape codes rolled into a big python class
+  - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a ton of escape codes rolled into a big python class
   - [`FUNC`](https://github.com/lomnom/FUNC): code that I use in many projects. You can take anything useful from there  
 
-Also, if you're interested, i have many *totally useless* side projects!
+Also, if you're interested, i have many *mostly useless* side projects!
   - [`PI`](https://github.com/lomnom/PI): inefficient pi calculator. Nice and colorful CLI tho
   - [`QUIZIZZ-ASSETS`](https://github.com/lomnom/QUIZZIZ-ASSETS): just a ton of assets from quizziz (music, icons etc etc)
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
