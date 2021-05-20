@@ -16,6 +16,6 @@ Also, if you're interested, i have many *totally useless* side projects!
   - `reddit-meme-bot`: a shitty website to get memes from reddit
   - `HERTZ.py`: feature rich utility to blink a led in the raspberry pi
 <details>
-  <summary>you probably dont want to look inside here.</summary>
+  <summary>you probably **dont** want to look inside here.</summary>
   • Hentai: (why did i make this) a python script to download doijins from nhentai as a pdf, useful for well, you know.
 </details>
