@@ -16,6 +16,6 @@ Also, if you're interested, i have many *totally useless* side projects!
   - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a shitty website to get memes from reddit
   - [`HERTZ.py`](https://github.com/lomnom/HERTZ.py): feature rich utility to blink a led in the raspberry pi
 <details>
-  <summary>you probably **dont** want to look inside here.</summary>
-  • <a href="https://github.com/lomnom/HENTAI">Hentai<\a>: (why did i make this) a python script to download doijins from nhentai as a pdf, useful for well, you know.
+  <summary>you probably <strong>dont</strong> want to look inside here.</summary>
+  • <a href="https://github.com/lomnom/HENTAI">Hentai</a>: (why did i make this) a python script to download doijins from nhentai as a pdf, useful for well, you know.
 </details>
