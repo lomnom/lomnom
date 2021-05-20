@@ -1,4 +1,4 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=cobalt&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 ## WELCOME TO MY GITHUB PROFILE!
 While You're here, check out my more useful projects!  
   - [`TERMINALFUNC`](https://github.com/lomnom/TERMINALFUNC): A lower level, less abstracted version of ncurses with much more potential
