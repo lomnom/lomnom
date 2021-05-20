@@ -1,7 +1,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 ## WELCOME TO MY GITHUB PROFILE!
 While You're here, check out my more useful projects!  
-  - [`TERMINALFUNC`](https://github.com/lomnom/TERMINALFUNC): A lower, less abstracted version of ncurses with much more potential
+  - [`TERMINALFUNC`](https://github.com/lomnom/TERMINALFUNC): A lower level, less abstracted version of ncurses with much more potential
   - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a tom of escape codes rolled into a big python class
   - [`FUNC`](https://github.com/lomnom/FUNC): code that I use in many projects. You can take anything useful from there  
 
