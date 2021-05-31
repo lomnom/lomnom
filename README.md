@@ -15,8 +15,10 @@ Also, if you're interested, i have many *mostly useless* side projects!
   - [`microbit-pixel-art-maker`](https://github.com/lomnom/microbit-pixel-art-maker): a pixel art maker for the microbit, to prove my teachers that say "microbit can only display text" wrong
   - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a shitty website to get memes from reddit
   - [`HERTZ.py`](https://github.com/lomnom/HERTZ.py): feature rich utility to blink a led in the raspberry pi
+<!--
 <details>
   <summary>and you probably <strong>dont</strong> want to look inside here.</summary>
   • <a href="https://github.com/lomnom/HENTAI">Hentai</a>: (why did i make this) a python script to download doujins from nhentai as a pdf, useful for well, you know. <br />
   You were warned.
 </details>
+-->
