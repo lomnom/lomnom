@@ -7,10 +7,12 @@ While You're here, check out my more useful projects!
   - [`FUNC`](https://github.com/lomnom/FUNC): code that I use in many projects. You can take anything useful from there  
 
 Also, if you're interested, i have many *mostly useless* side projects!
+  - [`langton`](https://github.com/lomnom/langton): An extremely fast CLI langton's ant stimulator written in c++
   - [`PI`](https://github.com/lomnom/PI): A beautiful and interactive CLI app that calculates pi ~~slowly~~ as fast as python can go.
   - [`FernDraw`](https://github.com/lomnom/FernDraw): A script that takes control of your mouse to draw a barnsley fern
   - [`QUIZIZZ-ASSETS`](https://github.com/lomnom/QUIZZIZ-ASSETS): just a ton of assets from quizziz (music, icons etc etc)
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
+  - [`BeastarsDl`](https://github.com/lomnom/BeastarsDl): A python script that downloads all Beastars chapters to pdfs
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
   - [`NUTELLAA`](https://github.com/lomnom/NUTELLAA): a TERRIBLE clicker game IOS app.
   - [`NUMBER-BOT-CLONE`](https://github.com/lomnom/NUMBER-BOT-CLONE): Trashy but usable clone of the discord `counting` bot, useful when the original goes down
