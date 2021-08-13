@@ -8,6 +8,7 @@ While You're here, check out my more useful projects!
 
 Also, if you're interested, i have many *mostly useless* side projects!
   - [`langton`](https://github.com/lomnom/langton): An extremely fast CLI langton's ant stimulator written in c++
+  - [`VidPlay`](https://github.com/lomnom/VidPlay): A fast and optimised command-line based video player written in c++
   - [`PI`](https://github.com/lomnom/PI): A beautiful and interactive CLI app that calculates pi ~~slowly~~ as fast as python can go.
   - [`FernDraw`](https://github.com/lomnom/FernDraw): A script that takes control of your mouse to draw a barnsley fern
   - [`QUIZIZZ-ASSETS`](https://github.com/lomnom/QUIZZIZ-ASSETS): just a ton of assets from quizziz (music, icons etc etc)
