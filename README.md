@@ -1,10 +1,10 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=cobalt&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 ## WELCOME TO MY GITHUB PROFILE!
-While You're here, check out my more useful projects!  
+While you're here, check out my more useful projects!  
+  - [`VidPlay`](https://github.com/lomnom/VidPlay): A fast and optimised command-line media viewer written in c++ that actually has decent colors
   - [`nncurses`](https://github.com/lomnom/nncurses): ncurses but it's not made for 1970s computers
   - [`TERMINALFUNC`](https://github.com/lomnom/TERMINALFUNC): python functions related to escape codes
   - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a ton of escape codes rolled into a big python class
-  - [`VidPlay`](https://github.com/lomnom/VidPlay): A fast and optimised command-line media viewer written in c++ that actually has decent colors
 
 Also, if you're interested, i have many *mostly useless* side projects!
   - [`langton`](https://github.com/lomnom/langton): An extremely fast CLI langton's ant stimulator written in c++
