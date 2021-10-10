@@ -19,7 +19,6 @@ Also, if you're interested, i have many *mostly useless* side projects!
   - [`microbit-pixel-art-maker`](https://github.com/lomnom/microbit-pixel-art-maker): a pixel art maker for the microbit, to prove my teachers that say "microbit can only display text" wrong
   - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a shitty website to get memes from reddit
   - [`HERTZ.py`](https://github.com/lomnom/HERTZ.py): an utility to blink a led in the raspberry pi
-  - [`FUNC`](https://github.com/lomnom/FUNC): code that I use in many projects. You can take anything useful from there  
 <!--
 <details>
   <summary>and you probably <strong>dont</strong> want to look inside here.</summary>
