@@ -7,6 +7,7 @@ While you're here, check out my more useful projects!
   - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a ton of escape codes rolled into a big python class
 
 Also, if you're interested, i have many *mostly useless* side projects!
+  - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
   - [`langton`](https://github.com/lomnom/langton): An extremely fast CLI langton's ant stimulator written in c++
   - [`MangaDl`](https://github.com/lomnom/MangaDl): A python script that downloads manga from certain manga websites
   - [`CatchApple`](https://github.com/lomnom/CatchApple): A cli game where you catch apples
