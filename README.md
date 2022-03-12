@@ -9,7 +9,7 @@ While you're here, check out my more useful projects!
 Also, if you're interested, i have many *mostly useless* side projects!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
   - [`langton`](https://github.com/lomnom/langton): A CLI langton's ant stimulator written in c++
-  - [`M5GO-Conway`](https://github.com/lomnom/M5GO-Conway): A fast implementation of Conway's game of life on the M5GO microcontroller
+  - [`M5GO-Conway`](https://github.com/lomnom/M5GO-Conway): A fast<sub>[1]</sub> implementation of Conway's game of life on the M5GO microcontroller
   - [`MangaDl`](https://github.com/lomnom/MangaDl): A python script that downloads manga from certain manga websites
   - [`CatchApple`](https://github.com/lomnom/CatchApple): A cli game where you catch apples
   - [`PI`](https://github.com/lomnom/PI): A beautiful and interactive CLI app that calculates pi ~~slowly~~ as fast as python can go.
