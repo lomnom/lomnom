@@ -5,6 +5,7 @@ While you're here, check out my more useful projects!
   - [`nncurses`](https://github.com/lomnom/nncurses): ncurses but it's not made for 1970s computers
   - [`TERMINALFUNC`](https://github.com/lomnom/TERMINALFUNC): python functions related to escape codes
   - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a ton of escape codes rolled into a big python class
+  - [`TeleCord`](https://github.com/lomnom/TeleCord): a bot that syncs telegram and discord channels
 
 Also, if you're interested, i have many *mostly useless* side projects!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
@@ -16,6 +17,7 @@ Also, if you're interested, i have many *mostly useless* side projects!
   - [`FernDraw`](https://github.com/lomnom/FernDraw): A script that takes control of your mouse to draw a barnsley fern
   - [`QUIZIZZ-ASSETS`](https://github.com/lomnom/QUIZZIZ-ASSETS): just a ton of assets from quizziz (music, icons etc etc)
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
+  - [`Emi`](https://github.com/lomnom/Emi): a discord bot that fetches sex tips from r/EitraAndEmi
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
   - [`NUTELLAA`](https://github.com/lomnom/NUTELLAA): a TERRIBLE clicker game IOS app.
   - [`NUMBER-BOT-CLONE`](https://github.com/lomnom/NUMBER-BOT-CLONE): Trashy but usable clone of the discord `counting` bot, useful when the original goes down
