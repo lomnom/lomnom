@@ -10,7 +10,8 @@ While you're here, check out my more useful projects!
 Also, if you're interested, i have many *mostly useless* side projects!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
   - [`langton`](https://github.com/lomnom/langton): A CLI langton's ant stimulator written in c++
-  - [`M5GO-Conway`](https://github.com/lomnom/M5GO-Conway): A fast<sub>[1]</sub> implementation of Conway's game of life on the M5GO microcontroller
+  - [`MineSweep`](https://github.com/lomnom/MineSweep): A minesweeper solver
+  - [`M5GO-Conway`](https://github.com/lomnom/M5GO-Conway): A rich implementation of Conway's game of life on the M5GO microcontroller
   - [`MangaDl`](https://github.com/lomnom/MangaDl): A python script that downloads manga from certain manga websites
   - [`CatchApple`](https://github.com/lomnom/CatchApple): A cli game where you catch apples
   - [`PI`](https://github.com/lomnom/PI): A beautiful and interactive CLI app that calculates pi ~~slowly~~ as fast as python can go.
@@ -25,7 +26,6 @@ Also, if you're interested, i have many *mostly useless* side projects!
   - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a shitty website to get memes from reddit
   - [`HERTZ.py`](https://github.com/lomnom/HERTZ.py): an utility to blink a led in the raspberry pi
  
-<sub>[1]</sub>: Fast for the hardware it runs on
 <!--
 <details>
   <summary>and you probably <strong>dont</strong> want to look inside here.</summary>
