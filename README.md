@@ -1,4 +1,4 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=cobalt&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=cobalt&border_radius=10&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 ## WELCOME TO MY GITHUB PROFILE!
 While you're here, check out my more useful projects!  
   - [`Terminal`](https://github.com/lomnom/Terminal): A python library for all terminal-related needs
