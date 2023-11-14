@@ -1,7 +1,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=cobalt&border_radius=10&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ## WELCOME TO MY GITHUB PROFILE!
 While you're here, check out my more useful projects!  
-  - [`Terminal`](https://github.com/lomnom/Terminal): A python library for all terminal-related needs
+  - [`Terminal`](https://github.com/lomnom/Terminal): An easy-to-use python library for TUI loosely insipred by SwiftUI
   - [`Fungelet`](https://github.com/lomnom/Fungelet): A convenient befunge ide made with `Terminal` 
   - [`VidPlay`](https://github.com/lomnom/VidPlay): A command-line media viewer written in c++ that has decent colors
   - [`nncurses`](https://github.com/lomnom/nncurses): ncurses but slightly easier to make apps with
