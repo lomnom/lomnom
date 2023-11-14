@@ -19,6 +19,7 @@ Also, if you're interested, I have many interesting side projects (in no paticul
   - [`FernDraw`](https://github.com/lomnom/FernDraw): A script that takes control of your mouse to draw a barnsley fern
   - [`QUIZIZZ-ASSETS`](https://github.com/lomnom/QUIZZIZ-ASSETS): just a ton of assets from quizziz (music, icons etc etc)
   - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a website to get memes (and other posts) from reddit, which can be used as an unsuspecting alternative client in situations where reddit.com is blocked
+  - [`goofysnek`](https://github.com/lomnom/Snake): A snake game where you cannot lose, written in native javascript.
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
   - [`Emi`](https://github.com/lomnom/Emi): a discord bot that fetches sex tips from r/EitraAndEmi
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
