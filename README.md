@@ -8,7 +8,7 @@ While you're here, check out my more useful projects!
   - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a ton of escape codes rolled into a big python class
   - [`TeleCord`](https://github.com/lomnom/TeleCord): a bot that syncs telegram and discord channels
 
-Also, if you're interested, I have many *mostly useless* side projects!
+Also, if you're interested, I have many interesting side projects (in no paticular order)!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
   - [`langton`](https://github.com/lomnom/langton): A CLI langton's ant stimulator written in c++
   - [`MineSweep`](https://github.com/lomnom/MineSweep): A minesweeper solver
