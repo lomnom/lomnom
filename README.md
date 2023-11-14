@@ -18,11 +18,11 @@ Also, if you're interested, I have many *mostly useless* side projects!
   - [`PI`](https://github.com/lomnom/PI): A beautiful and interactive CLI app that calculates pi ~~slowly~~ as fast as python can go.
   - [`FernDraw`](https://github.com/lomnom/FernDraw): A script that takes control of your mouse to draw a barnsley fern
   - [`QUIZIZZ-ASSETS`](https://github.com/lomnom/QUIZZIZ-ASSETS): just a ton of assets from quizziz (music, icons etc etc)
+  - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a website to get memes (and other posts) from reddit, which can be used as an unsuspecting alternative client in situations where reddit.com is blocked
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
   - [`Emi`](https://github.com/lomnom/Emi): a discord bot that fetches sex tips from r/EitraAndEmi
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
   - [`NUTELLAA`](https://github.com/lomnom/NUTELLAA): a TERRIBLE clicker game IOS app.
   - [`NUMBER-BOT-CLONE`](https://github.com/lomnom/NUMBER-BOT-CLONE): Trashy but usable clone of the discord `counting` bot, useful when the original goes down
   - [`microbit-pixel-art-maker`](https://github.com/lomnom/microbit-pixel-art-maker): a pixel art maker for the microbit, to prove my teachers that say "microbit can only display text" wrong
-  - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a shitty website to get memes from reddit
   - [`HERTZ.py`](https://github.com/lomnom/HERTZ.py): an utility to blink a led in the raspberry pi
