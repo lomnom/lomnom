@@ -21,7 +21,7 @@ Also, if you're interested, I have many interesting side projects (in no paticul
   - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a website to get memes (and other posts) from reddit, which can be used as an unsuspecting alternative client in situations where reddit.com is blocked
   - [`goofysnek`](https://github.com/lomnom/Snake): A snake game where you cannot lose, written in native javascript.
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
-  - [`Emi`](https://github.com/lomnom/Emi): a discord bot that fetches sex tips from r/EitraAndEmi
+  - [`Emi`](https://github.com/lomnom/Emi): a discord bot that fetches sexual health info nuggets from r/EitraAndEmi
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
   - [`NUTELLAA`](https://github.com/lomnom/NUTELLAA): a TERRIBLE clicker game IOS app.
   - [`NUMBER-BOT-CLONE`](https://github.com/lomnom/NUMBER-BOT-CLONE): Trashy but usable clone of the discord `counting` bot, useful when the original goes down
