@@ -4,6 +4,7 @@ While you're here, check out my more useful projects!
   - [`Terminal`](https://github.com/lomnom/Terminal): An easy-to-use python library for TUI loosely insipred by SwiftUI
   - [`Fungelet`](https://github.com/lomnom/Fungelet): A convenient befunge ide made with `Terminal` 
   - [`VidPlay`](https://github.com/lomnom/VidPlay): A command-line media viewer written in c++ that has decent colors
+  - [`PfpSearch`](https://github.com/lomnom/PfpSearch): A reddit bot that looks for profile pictures most similar to an image. Uses SIFT.
   - [`nncurses`](https://github.com/lomnom/nncurses): ncurses but slightly easier to make apps with
   - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a ton of escape codes rolled into a big python class
   - [`TeleCord`](https://github.com/lomnom/TeleCord): a bot that syncs telegram and discord channels
