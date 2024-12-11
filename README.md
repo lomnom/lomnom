@@ -6,11 +6,11 @@ While you're here, check out my more useful projects!
   - [`VidPlay`](https://github.com/lomnom/VidPlay): A command-line media viewer written in c++ that has decent colors
   - [`PfpSearch`](https://github.com/lomnom/PfpSearch): A reddit bot that looks for profile pictures most similar to an image. Uses SIFT.
   - [`nncurses`](https://github.com/lomnom/nncurses): ncurses but slightly easier to make apps with
-  - [`ESCAPES`](https://github.com/lomnom/ESCAPES): Just a ton of escape codes rolled into a big python class
   - [`TeleCord`](https://github.com/lomnom/TeleCord): a bot that syncs telegram and discord channels
 
 Also, if you're interested, I have many interesting side projects (in no paticular order)!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
+  - [`The White Death`](https://github.com/WhatsACloud/the-white-death): A game for Speedjam #8 which I was a programmer in
   - [`langton`](https://github.com/lomnom/langton): A CLI langton's ant stimulator written in c++
   - [`MineSweep`](https://github.com/lomnom/MineSweep): A minesweeper solver
   - [`M5GO-Conway`](https://github.com/lomnom/M5GO-Conway): A rich implementation of Conway's game of life on the M5GO microcontroller
