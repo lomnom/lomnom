@@ -21,7 +21,7 @@ And my many interesting side projects too (in no paticular order)!
   - [`goofysnek`](https://github.com/lomnom/Snake): A snake game where you cannot lose, written in native javascript.
   - [`Synthesizer`](https://github.com/lomnom/Synthesizer): A minimal audio synthesizer written in c++
   - [`Emi`](https://github.com/lomnom/Emi): a discord bot that fetches sexual health info nuggets from r/EitraAndEmi
-  - [`Spammer`](https://github.com/lomnom/SpamBot): Simple script which takes control of keyboard to spam a text message.
+  - [`Spammer`](https://github.com/lomnom/SpamBot): Keyboard automation utility for text messages (designed with whatsapp web in mind but should work with most platforms)
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
   - [`NUTELLAA`](https://github.com/lomnom/NUTELLAA): a TERRIBLE clicker game IOS app.
   - [`CAH`](https://github.com/lomnom/CAH): generate a cards against humanity deck
