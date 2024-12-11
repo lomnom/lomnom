@@ -8,7 +8,7 @@ While you're here, check out my more useful projects!
   - [`nncurses`](https://github.com/lomnom/nncurses): ncurses but slightly easier to make apps with
   - [`TeleCord`](https://github.com/lomnom/TeleCord): a bot that syncs telegram and discord channels
 
-Also, if you're interested, I have many interesting side projects (in no paticular order)!
+And my many interesting side projects too (in no paticular order)!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
   - [`The White Death`](https://github.com/WhatsACloud/the-white-death): A game for Speedjam #8 which I was a programmer in
   - [`langton`](https://github.com/lomnom/langton): A CLI langton's ant stimulator written in c++
@@ -19,6 +19,7 @@ Also, if you're interested, I have many interesting side projects (in no paticul
   - [`FernDraw`](https://github.com/lomnom/FernDraw): A script that takes control of your mouse to draw a barnsley fern
   - [`reddit-meme-bot`](https://github.com/lomnom/reddit-meme-bot): a website to get memes (and other posts) from reddit, which can be used as an unsuspecting alternative client in situations where reddit.com is blocked
   - [`goofysnek`](https://github.com/lomnom/Snake): A snake game where you cannot lose, written in native javascript.
+  - [`Synthesizer`](https://github.com/lomnom/Synthesizer): A minimal audio synthesizer written in c++
   - [`Emi`](https://github.com/lomnom/Emi): a discord bot that fetches sexual health info nuggets from r/EitraAndEmi
   - [`DADJOKES-lmaoo`](https://github.com/lomnom/DADJOKES-lmaoo): a bad dadjokes IOS app
   - [`NUTELLAA`](https://github.com/lomnom/NUTELLAA): a TERRIBLE clicker game IOS app.
