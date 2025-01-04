@@ -5,7 +5,7 @@ While you're here, check out my more useful projects!
   - [`Fungelet`](https://github.com/lomnom/Fungelet): A convenient befunge ide made with `Terminal` 
   - [`VidPlay`](https://github.com/lomnom/VidPlay): A command-line media viewer written in c++ that has decent colors
   - [`PfpSearch`](https://github.com/lomnom/PfpSearch): A reddit bot that looks for profile pictures most similar to an image. Uses SIFT.
-  - [`Censor`](https://github.com/lomnom/Redact): A censor bar for your desktop.
+  - [`Censor`](https://github.com/lomnom/Redact): A censor bar for your desktop that can camouflage.
 
 And my equally cool side projects too (in no paticular order)!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
