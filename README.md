@@ -11,7 +11,7 @@ And my equally cool side projects too (in no paticular order)!
   - [`DiskDb`](https://github.com/lomnom/DiskDb): A non-bloat binary data format
   - [`The White Death`](https://github.com/WhatsACloud/the-white-death): A game for Speedjam #8 which I was a programmer in
   - [`langton`](https://github.com/lomnom/langton): A CLI langton's ant stimulator written in c++
-  - [`Sieve`][https://github.com/lomnom/Sieve]: A concurrent implementation of the Sieve of Eratosthenes in c++ with python bindings
+  - [`Sieve`](https://github.com/lomnom/Sieve): A concurrent implementation of the Sieve of Eratosthenes in c++ with python bindings
   - [`MineSweep`](https://github.com/lomnom/MineSweep): A minesweeper solver which takes control of your desktop to solve.
   - [`MangaDl`](https://github.com/lomnom/MangaDl): A python script that downloads manga from certain manga websites
   - [`CatchApple`](https://github.com/lomnom/CatchApple): A cli game where you catch apples
