@@ -1,11 +1,11 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=lomnom&show_icons=true&theme=cobalt&border_radius=10&rank_icon=github&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ## WELCOME TO MY GITHUB PROFILE!
 While you're here, check out my more useful projects!  
-  - [`Fungelet`](https://github.com/lomnom/Fungelet): A convenient befunge ide made with `Terminal` 
-  - [`PfpSearch`](https://github.com/lomnom/PfpSearch): A reddit bot that looks for profile pictures most similar to an image. Uses SIFT.
+  - [`Fungelet`](https://github.com/lomnom/Fungelet): A convenient befunge ide made with `Terminal`
   - [`Censor`](https://github.com/lomnom/Redact): A censor bar for your desktop that can camouflage.
   - [`EZproblem`](https://github.com/lomnom/EZproblem/tree/main): The simplest CP problem generator ever. Does all the tedious things for you.
   - [`Terminal`](https://github.com/lomnom/Terminal): An easy-to-use python library for TUI loosely insipred by SwiftUI
+  - [`PfpSearch`](https://github.com/lomnom/PfpSearch): A reddit bot that looks for profile pictures most similar to an image. Uses SIFT.
   - [`VidPlay`](https://github.com/lomnom/VidPlay): A command-line media viewer written in c++ that has decent colors
 
 And my equally cool side projects too (in no paticular order)!
