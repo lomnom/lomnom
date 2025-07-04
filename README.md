@@ -5,8 +5,8 @@ While you're here, check out my more useful projects!
   - [`Censor`](https://github.com/lomnom/Redact): A censor bar for your desktop that can camouflage.
   - [`EZproblem`](https://github.com/lomnom/EZproblem/tree/main): The simplest CP testcase generator ever. Does all the tedious things for you.
   - [`Sieve`](https://github.com/lomnom/Sieve): A concurrent implementation of the Sieve of Eratosthenes in c++ with python bindings
-  - [`Terminal`](https://github.com/lomnom/Terminal): An easy-to-use python library for TUI loosely insipred by SwiftUI
   - [`PfpSearch`](https://github.com/lomnom/PfpSearch): A reddit bot that looks for profile pictures most similar to an image. Uses SIFT.
+  - [`Terminal`](https://github.com/lomnom/Terminal): An easy-to-use python library for TUI loosely insipred by SwiftUI
   - [`VidPlay`](https://github.com/lomnom/VidPlay): A command-line media viewer written in c++ that has decent colors
 
 And my equally cool side projects too (in no paticular order)!
